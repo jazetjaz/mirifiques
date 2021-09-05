@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Brown-Regular";
+    src: url("/fonts/Brown-Regular.ttf");
+  
+  }
+
+  h1 {
+    
+    font-size: xx-large; 
+    font-weight: bold;
+  }
