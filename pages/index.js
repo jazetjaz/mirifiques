@@ -9,6 +9,28 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 <Header />
+
+<div class="flex flex-wrap overflow-hidden">
+
+  <div class="w-1/3 overflow-hidden bg-gray-400">
+    yyy
+  </div>
+
+  <div class="w-1/3 overflow-hidden bg-red-400">
+    yttt
+  </div>
+
+  <div class="w-1/3 overflow-hidden bg-yellow-400">
+    ghbn
+  </div>
+</div>
+
+
+
+
+
+
+
       <main className="flex flex-col items-center justify-center w-full flex-1 px-20 text-center">
         <h1 className="text-6xl font-bold">
           Welcome to{' '}
