@@ -7,17 +7,17 @@ function Header() {
      <header className="sticky top-0 z-50  bg-white  ">
 
 
-<div class="flex flex-wrap overflow-hidden">
+<div class="grid grid-cols-3 ">
 
-  <div class="w-1/3 overflow-hidden bg-gray-400 md:w-auto">
+<div class="w-auto bg-red-700 md:w-full ">
     yyy
   </div>
 
-  <div class="w-1/3 overflow-hidden bg-red-400">
+  <div class=" bg-red-400 ">
     yttt
   </div>
 
-  <div class="w-1/3 overflow-hidden bg-yellow-400">
+  <div class=" bg-yellow-400 ">
     ghbn
   </div>
 </div>
