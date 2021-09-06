@@ -9,7 +9,7 @@ function Header() {
  
   <div className="relative flex  items-center  cursor-pointer my-auto bg-green-400 md:w-auto ">
   <FlagIcon className="h-6 w-6 " />
-  <p className="text-xl font-bold pl-4 align-middle  hidden md:inline-flex">
+  <p className="font-bold pl-4 align-middle  hidden md:inline-flex w-auto md:inline-flex">
               mirifiques
             </p>
 
