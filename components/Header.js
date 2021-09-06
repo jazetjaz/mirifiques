@@ -9,7 +9,7 @@ function Header() {
 
 <div class="grid grid-cols-3 ">
 
-<div class="w-auto bg-red-700 md:w-full ">
+<div class="w-auto bg-red-700 sm:w-full ">
     yyy
   </div>
 
