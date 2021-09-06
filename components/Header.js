@@ -7,9 +7,9 @@ function Header() {
      <header className="sticky top-0 z-50 grid grid-cols-3 bg-white  ">
   {/* logo section */}
  
-  <div className="relative flex  items-center  cursor-pointer my-auto bg-green-400 sm:w-auto ">
+  <div className="relative flex  items-center  cursor-pointer my-auto bg-green-400 md:w-auto ">
   <FlagIcon className="h-6 w-6 " />
-  <p className="text-2xl font-bold pl-4 align-middle hidden md:block md:relative">
+  <p className="text-xl font-bold pl-4 align-middle hidden md:block md:relative">
               mirifiques
             </p>
 

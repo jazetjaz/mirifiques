@@ -12,7 +12,7 @@ export default function Home() {
 
 <div class="flex flex-wrap overflow-hidden">
 
-  <div class="w-1/3 overflow-hidden bg-gray-400">
+  <div class="w-1/3 overflow-hidden bg-gray-400 w-auto">
     yyy
   </div>
 
