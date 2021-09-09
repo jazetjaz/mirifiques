@@ -11,7 +11,10 @@ export default function Home() {
 <Header />
 
 
-
+<div >
+      <div>Public</div>
+      <div><a href="/private">Go to Private</a></div>
+    </div>
 
 
 
